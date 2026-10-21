@@ -1,5 +1,7 @@
 # SARAL: Simplified And Automated Research Amplification and Learning
 
+> **Historical upstream fork.** This personal fork is archived. Continue at [DemocratiseResearch/SARAL](https://github.com/DemocratiseResearch/SARAL) for the upstream paper-to-video project. The separate [SARAL-Megathon](https://github.com/J10Official/SARAL-Megathon) repository contains the paper-to-visual-novel implementation. Original upstream documentation and attribution are preserved below.
+
 SARAL AI is a full-stack application that automates the process of converting research papers (LaTeX or arXiv) into engaging educational videos. The system leverages AI for script generation, slide creation, audio narration, and video synthesis, providing a seamless workflow from paper upload to downloadable media.
 
 ---
